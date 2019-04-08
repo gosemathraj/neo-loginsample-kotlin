@@ -1,0 +1,14 @@
+ext{
+    def AppCompatVersion = '28.0.0'
+    def ConstraintLayoutVersion = '1.1.3'
+    def RetrofitVersion = '2.5.0'
+    def Dagger2Versoion = '2.22.1'
+    def RxJavaVersion = '2.2.8'
+    def RxAndroidVersion = '2.1.1'
+    def RxRetrofitAdapterVersion = '2.5.0'
+    def GoogleGsonVersion = '2.8.5'
+
+    def JunitVersion = '4.12'
+    def TestRunnerVersion = '1.0.2'
+    def EspressoVersion = '3.0.2'
+}
